@@ -13,7 +13,7 @@ Repositorio para el módulo de JavaScript del curso de Frontend de La Salle (28 
 ## Recomendaciones y buenas prácticas
 
 - repo con apuntes  HTML + CSS + JS
-- inicar repo 
+- iniciar repositorio
 
 ## Recursos
 
