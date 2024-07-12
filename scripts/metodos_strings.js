@@ -22,7 +22,7 @@ email = "OmarOlmedoFerrer@Inventado.com"
 console.log(email.toLowerCase());
 console.log(email.toUpperCase());
 
-console.log("Text original: '" + text + "'");
+console.log("Text original: '" + text.trim() + "'");
 console.log("Text alterat: '" + text.trim().replace("l'Omar", "el profe") + "'");
 
 alter = text.trim().replace("l'Omar", "el profe");
