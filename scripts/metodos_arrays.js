@@ -2,7 +2,7 @@ console.log("%cMètodes d'arrays", "font-weight: bold");
 
 // * provar mètodes concat(), join(), pop(), push(), shift(), unshift(), flat()
 
-animals = ["🐶", "🦁", "🐭", "🐍", "🐘"]
+animals = ["🐶", "🐱", "🐭", "🐍", "🐘"]
 colors = ["🔴", "🟠", "🟡", "🟢", "🔵", "🟣"]
 
 console.log(animals, colors);
@@ -36,3 +36,25 @@ console.log(array.flat())           // "aplana" un nivel
 console.log(array.flat().flat());   // "aplana" dos niveles
 
 console.log(array.flat(2));  // "aplana" hasta la profundidad que le digamos (puede ser Infinity)
+
+// indexOf() y lastIndexOf() son com els de strings, retornen la primera o la última posició de l'element buscat
+
+// includes() també funciona igual que el de strings (true o false)
+
+numbers = ["One", "Two", "Three", "Four", "Five"]
+
+// toSorted() y toReversed() devuelven el array ordenado o invertido (respectivamente)
+numbers.toSorted()
+console.log(numbers);
+console.log(numbers.toSorted());
+
+// sort() y reverse() modifican el array para ordenarlo o invertirlo (respectivamente)
+numbers.sort()
+console.log(numbers);
+
+animals.sort() // les strings s'ordenen "alfabeticament" (i.e. per numero d'unicode)
+console.log(animals);
+
+// TODO: métodos de ordenación compleja: sort()
+
+// TODO: métodos de busqueda compleja: find()
