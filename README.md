@@ -29,6 +29,13 @@ Este repositorio contiene los recursos y materiales del módulo de JavaScript de
 - condicionales
 
 ### 13 de julio
+- funciones flecha, anónimas, autoexecutables
+- condicionales
+
+#### 19 de julio
+- corregir ejercicios condicionales
+- bucles
+
 
 ## Recomendaciones y buenas prácticas
 
@@ -74,3 +81,4 @@ Este repositorio contiene los recursos y materiales del módulo de JavaScript de
 ---
 
 Este README proporciona una guía detallada de los temas cubiertos en el curso, así como recursos adicionales y recomendaciones para el manejo de Github y herramientas de desarrollo.
+
